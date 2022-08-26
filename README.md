@@ -1,2 +1,2 @@
 # Hangman
-The infamous Hangman code created in Python.
+The infamous Hangman game created in Python.
